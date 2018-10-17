@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "d0e5dfb35c9eaef0abc9831de82e834b"
+build_time: [1539769143, 720232000]
+inputs:
+  "/Users/dopiz/Desktop/appium-ios-basic-master/starter/AppiumTest/ViewController.swift": [9223372036, 854775807]
+  "/Users/dopiz/Desktop/appium-ios-basic-master/starter/AppiumTest/AppDelegate.swift": [9223372036, 854775807]
